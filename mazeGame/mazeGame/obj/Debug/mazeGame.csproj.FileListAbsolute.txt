@@ -1,0 +1,9 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\bin\Debug\mazeGame.exe.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\bin\Debug\mazeGame.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\bin\Debug\mazeGame.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.Form1.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.Properties.Resources.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.csproj.GenerateResource.Cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.pdb
